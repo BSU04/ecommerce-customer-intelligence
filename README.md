@@ -1,0 +1,1 @@
+An end-to-end customer analytics pipeline that analyzes customer purchasing behaviour using RFM analysis, predicts customer value with machine learning models, and discovers product associations through market basket analysis to support business decision-making
