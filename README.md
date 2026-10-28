@@ -1,10 +1,4 @@
-# E-commerce Customer Intelligence Engine
-
-Turning raw online retail transactions into customer and product intelligence to help a retailer improve retention, prioritise valuable shoppers and increase basket value.
-
-**Language:** Python
-
-**Libraries:** pandas · NumPy · scikit-learn · Random Forest · imbalanced-learn (SMOTE) · mlxtend · Plotly · Matplotlib · Seaborn
+# E-commerce Customer Intelligence
 
 ## Business Problem
 
