@@ -45,6 +45,8 @@ A global online retailer lacks visibility into how customers behave. As a result
 
 ### Customer Segments
 
+![Customer segment distribution](images/Treemap.png)
+
 | Segment | Share of customers |
 |---|---|
 | Champions | 12.1% |
@@ -61,6 +63,8 @@ A global online retailer lacks visibility into how customers behave. As a result
 - **The 20-day golden window:** new customers who do not reach a third order within about 20 days are at much higher risk of churning.
 
 ### Customer Value Prediction
+
+![Top predictors of a future high-value customer](images/Feature_Importance.png)
 
 | Metric (high-value class) | Random Forest + SMOTE (final model) |
 |---|---|
